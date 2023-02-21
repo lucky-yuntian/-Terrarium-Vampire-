@@ -1,0 +1,275 @@
+VKE : {
+	ItemName : {
+		AdamantiteKnives : 金刚飞刀
+		AdamantitePlate : 金刚石板
+		AncientVampiricTablet : 古代吸血鬼石碑
+		Bandage : 绷带
+		BeeKnives : 蜜蜂刀
+		BloomingTerror : 盛开的恐怖
+		BombPouch : 无限炸弹袋
+		BrokenHeroKnives : 破碎的英雄刀
+		ButchersKnives : 猩红飞刀
+		ChainKnives : 链条刀
+		Chisel : 凿子
+		ChlorophyteKnives : 吊兰刀
+		ChlorophytePlate : 吊兰板
+		CobaltKunai : 库奈钴合金
+		CobaltPlate : 钴板
+		CopperKnives : 铜刀
+		CopperPlate : 红铜盔甲
+		CorruptionCrystal : 不稳定腐败晶体
+		CorruptionNestKnives : 腐败窝
+		CorruptionShard : 腐败碎片
+		CrimsonCrystal : 不稳定深红水晶
+		CrimsonNestKnives : 猩红刀
+		CrimsonShard : 深红碎片
+		CrimtaneKnives : 深红色刀具
+		CrimtanePlate : 深红石板
+		CritEmblem : 暴击徽章
+		DaedalusStormblades : 代达罗斯的风暴之刃
+		DamagedWyvernHead : 损坏的飞龙头
+		DarkPyromancersHood : 黑暗巫师帽
+		DartCast : 飞刀投掷
+		DeltaKnives : 夜明剑
+		DemoniteKnives : 恶魔刀
+		DemonitePlate : 恶魔石板
+		DynamitePouch : 无限雷管袋
+		EmptyPouch : 空袋
+		EnchantedKnives : 附魔飞刀
+		EverscreamsBranch : 圣诞尖刺
+		ExcaliburKnives : 亚瑟的卡莱德武尔奇
+		ExtraFinger : 额外的手指
+		FieryKnives : 狱岩飞刀
+		GoldKnives : 金色小刀
+		GoldPlate : 镀金
+		GrenadePouch : 无限手榴弹袋
+		HallowedGauntlet : 神圣鬼刀
+		HallowedPlate : 空心板
+		Hammer : 锻锤
+		HarpyKnives : 鸟妖飞刀
+		HarvestersSoul : 收割者的灵魂
+		HorsemansKnives : 无首南瓜的飞刀
+		InvokersHood : 召唤者的帽子
+		IronKnives : 铁刀
+		IronKnivesMold : 刀片铸造
+		IronPlate : 铁板
+		JungleKnives : 丛林刀
+		KnifeBenchItem : 刀具工作台
+		LeadKnives : 铅刀
+		LeadPlate : 铅板
+		LightandDark : 腐化飞刀
+		LivingTissue : 活组织
+		LuminiteKnives : 月神之手
+		LuminitePlate : 发光板
+		MagesHood : 邪教者的帽子
+		MakeshiftWhetstone : 临时磨刀石
+		ManaKnivesAnimated : 玛娜刀
+		MandibleKnives : 蚁狮飞刀
+		MechanicalFingers : 机械手指
+		MeteoritePlate : 陨石板
+		RukasusTeslaKnives : 火星人的科技
+		SacrificialDagger : 祭祀匕首
+		SacrificialDaggerCreative : 创造祭祀匕首
+		Scimitars : 外星飞刀
+		SengosForgottenBlades : 村正飞刀
+		ShadowKnives : 永夜飞刀
+		StarfuryKnives : 星怒飞刀
+		StickyBombPouch : 无限粘性炸弹
+		StickyDynamitePouch : 无限粘性雷管
+		VampTable : 吸血鬼祭坛
+		WeakVampireKnives : 人工吸血鬼飞刀
+	}
+	ItemTooltip : {
+		AdamantiteKnives : 降低命中敌人的防御
+		AncientVampiricTablet : 
+		  '''
+		  这个平板电脑中蕴藏着什么神秘能量？
+		  双击转换键（检查键配置）以转换为蝙蝠
+		  '''
+		Bandage : 停止牺牲性伤口的出血
+		BeeKnives : 
+		  '''
+		  带内部隔层的刀具 
+		  充满了蜜蜂在撞击时爆炸
+		  '''
+		BloomingTerror : 
+		  '''
+		  它正在失控
+		  击中敌人时会掉落损坏的种子
+		  '''
+		BombPouch : 装满炸弹串在一起的袋子
+		ButchersKnives : 一套生锈的刀子，刺入目标并流血
+		ChainKnives : 附在大型链条上的刀片，在击中目标时可缩回
+		Chisel : 
+		  '''
+		  [c/FF00000：用于将石头切成形状]
+		  可存放在刀具工作台中
+		  '''
+		ChlorophyteKnives : 降低命中敌人的防御
+		CobaltKunai : 
+		  '''
+		  一次发射10把刀
+		  降低命中敌人的防御
+		  '''
+		CopperKnives : 降低命中敌人的防御
+		CorruptionCrystal : 似乎有腐败的能量从裂缝中涌出
+		CorruptionNestKnives : 充满幼虫的巢
+		CorruptionShard : 
+		  '''
+		  更大画面的部分
+		  自动合成晶体
+		  '''
+		CrimsonCrystal : 辐射出怪兽的生命本质
+		CrimsonNestKnives : 巢中充满了幼虫
+		CrimsonShard : 
+		  '''
+		  更大画面的部分
+		  自动合成晶体
+		  '''
+		CrimtaneKnives : 降低命中敌人的防御
+		CritEmblem : 
+		  '''
+		  所有伤害类型的刀暴击几率增加8%
+		  用于升级刀具
+		  '''
+		DaedalusStormblades : 
+		  '''
+		  剑刃的能量似乎在剑柄中涌动
+		  有1%的几率在击中任何物体时造成雷击，下雨时几率增加
+		  '''
+		DarkPyromancersHood : 
+		  '''
+		  用诅咒的火焰点燃使用者的刀
+		  按下发动机罩键以拉起发动机罩以获得更强的效果
+		  (在设置中设置引擎盖键)
+		  '''
+		DartCast : 用于制造材料刀的弹药
+		DemoniteKnives : 降低命中敌人的防御
+		DynamitePouch : 袋装炸药串在一起
+		EmptyPouch : 一个空袋子
+		ExcaliburKnives : 高口径刀具
+		ExtraFinger : 
+		  '''
+		  你知道他们怎么说，五个比四个好
+		  在每次打击中添加另一把刀
+		  '''
+		FieryKnives : 由地狱碎片锻造而成，能点燃敌人
+		GoldKnives : 降低命中敌人的防御
+		GrenadePouch : 装满手榴弹的袋子串在一起
+		HallowedGauntlet : 生命和魔法窃取刀，在接触时碎裂并向任意方向开火
+		Hammer : "[c/FF0000:用于将金属锤成形状]"
+		HarvestersSoul : 这个神秘的工具给了用户泵的力量
+		HorsemansKnives : 插在地上的刀片，随机产生南瓜，瞄准敌人
+		InvokersHood : 
+		  '''
+		  为使用者的刀具注入活力
+		  按下引擎盖键拉起引擎盖以获得更强的效果
+		  (在设置中设置引擎盖键)
+		  '''
+		IronKnives : 降低命中敌人的防御
+		IronKnivesMold : 用来制作金属刀扇的铸件
+		JungleKnives : 丛林材料制成的刀，可毒死敌人
+		KnifeBenchItem : 用于制作刀具
+		LeadKnives : 降低命中敌人的防御
+		LightandDark : 像刀子一样发射回旋镖
+		LivingTissue : 它还在移动...
+		LuminiteKnives : 用月神碎片制作的夺命刀
+		MagesHood : 
+		  '''
+		  真正的法师的帽子
+		  按下发动机罩键以拉起发动机罩以获得更强的效果
+		  (在设置中设置引擎盖键)
+		  '''
+		MakeshiftWhetstone : 
+		  '''
+		  用来磨刀的粗石
+		  刀暴击几率增加15%
+		  '''
+		ManaKnivesAnimated : 玛娜偷刀
+		MandibleKnives : 由蚁狮的残骸制成，召唤蚁狮宝宝回家攻击敌人
+		MechanicalFingers : 
+		  '''
+		  他们似乎自己在移动...
+		  每一击多加两把刀
+		  '''
+		SacrificialDagger : 
+		  '''
+		  牺牲一点自己的血液，立即获得一点血压
+		  [c/B48C8C:免责声明：这种行为不受认可]
+		  [c/B48C8C:这是一场游戏，而不是现实生活]
+		  [c/B48C8C:这是一场游戏，不是真实的生活如果你有自残或自杀的想法]
+		  [c/B48C8C:请与你信任的爱人交谈，或拨打电话1-800-273-8255与愿意倾听的人交谈]
+		  [c/B48C8C:你可能会感到孤独，但我劝你继续战斗，你在这里是有原因的]
+		  [c/B48C8C:当你认为你没有做任何值得做的事时，只要记住下载这个mod，你就成就了我的一天]
+		  [c/B48C8C:知道这一点，想想你仅仅通过生活就让别人的日子过得更好]
+		  [c/B48C8C:我们都会犯错误，而你的并不比我的大]
+		  [c/B48C8C:我们最终都只是碳块，所以要充分利用你的时间]
+		  [c/B48C8C:你是一个战士，凭借灰骷髅的力量，你有力量！]
+		  '''
+		SengosForgottenBlades : 由封锁在地牢深处的刀锻造而成
+		ShadowKnives : 
+		  '''
+		  异常的黑暗
+		  刀落在地上，弹回使用者
+		  '''
+		StarfuryKnives : 
+		  '''
+		  是一只鸟！这是一架飞机？
+		  从上面召唤刀子，就像它挥舞的星辰一样
+		  '''
+		StickyBombPouch : 装满粘弹的袋子串在一起
+		StickyDynamitePouch : 装满粘弹的袋子串在一起
+		VampTable : 
+		  '''
+		  用于更有效地加工刀具 
+		  (这个mod的大多数配方在这个祭坛上更便宜)
+		  '''
+	}
+	Ldstr : {
+		VKE : {
+			NPCs : {
+				VampireNPC : {
+					GetChat : {
+						0 : 年轻人，对一个古老的吸血鬼遗迹感兴趣？
+						1 : 有时这里的每个人都想让我喝酒
+						2 : 有时这里的每个人都想让我喝酒
+						3 : 谁是馅饼？
+					}
+					OnChatButtonClicked : {
+						1 : 暂时禁用
+					}
+					SetBestiary : {
+						0 : 一个散发着力量和血腥欲望的神秘实体
+					}
+					SetChatButtons : {
+						0 : 当然
+						1 : 不，不，谢谢
+						2 : 商店
+						3 : 开放皮肤店
+					}
+					SetNPCNameList : {
+						0 : 达里克
+						1 : 弗朗西乌斯
+						2 : 德古拉
+						3 : 维克特
+						4 : 巴里提乌二世
+					}
+				}
+			}
+		}
+	}
+	MapEntry : {
+		tileEntries : {
+			KnifeBench : {
+				0 : 刀具工作台
+			}
+			VampTableTile : {
+				0 : 
+				  '''
+				  吸血鬼祭坛
+				  右键单击以升级刀具
+				  '''
+			}
+		}
+	}
+}
